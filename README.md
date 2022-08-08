@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snir M</h1>
 
-<h3 align="center">[Cyber_being_3](https://user-images.githubusercontent.com/78410805/183501984-2e91bcd3-9d55-4468-89d0-dc6fb871fcf8.gif)
+<h3 align="center">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snirm&label=Profile%20views&color=0e75b6&style=flat" alt="snirm" /> </p>
