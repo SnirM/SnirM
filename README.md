@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snir M</h1>
-[<img src="https://raw.githubusercontent.com/SnirM/SnirM/master/intro.gif" alt="👋 Hi there! I'm (Snir|nd Li)|https://snirm.li)" title="👋 Hi there! I'm (Snir|nd Li)|https://snirm.li)"/>](https://snirm.li/)
-<h3 align="center">DFIR and Malware analysis Frik</h3>
+
+<h3 align="center">[Cyber_being_3](https://user-images.githubusercontent.com/78410805/183501984-2e91bcd3-9d55-4468-89d0-dc6fb871fcf8.gif)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snirm&label=Profile%20views&color=0e75b6&style=flat" alt="snirm" /> </p>
 
