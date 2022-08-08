@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Snir M</h1>
+<h1 align="center">Hi 👋, My Name Is Snir M</h1>
 
-<h3 align="center">
+<h3 align="center"> i am frik of DFIR and Malware Analysis
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snirm&label=Profile%20views&color=0e75b6&style=flat" alt="snirm" /> </p>
